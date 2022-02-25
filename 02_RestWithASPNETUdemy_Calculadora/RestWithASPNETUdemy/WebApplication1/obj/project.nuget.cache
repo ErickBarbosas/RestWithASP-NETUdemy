@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zppha8YtFLuS/Iz/5MBg5rhEESHISW0h6+S1IZiieXvmMwL08vncTsC6s4FxBwhtGYHdxrUn8hbYc7fGNSzQWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erick Barbosa\\source\\CursoUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\02_RestWithASPNETUdemy_Calculadora\\RestWithASPNETUdemy\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick Barbosa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Erick Barbosa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Erick Barbosa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
